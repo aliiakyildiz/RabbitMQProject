@@ -1,1 +1,3 @@
 # RabbitMQProject
+
+## RabbitMQ practices
